@@ -6,8 +6,8 @@ For all the individual APIs I made CRUD operations like add, edit, view selected
 I have used ReactJS,react-bootstrap, Axios,react-router-dom, and redux.
 Kindly view the API documentation for more details.
 
-Frontend Server link: 
-API documentation :
+Frontend Server link: https://hrets.netlify.app/
+API documentation :https://documenter.getpostman.com/view/32014275/2sA3XV7yyw
 
 This project is open source, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
 # React + TypeScript + Vite
