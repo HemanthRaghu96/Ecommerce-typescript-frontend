@@ -34,7 +34,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="flex mr-5">
-        <Link to={"./signin"}>
+        <Link to={"./login"}>
           <div className="flex  items-center">
             <SlUser />
             <button className="ml-2">Sign in</button>
